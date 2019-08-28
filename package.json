@@ -1,0 +1,22 @@
+{
+  "name": "samplecli",
+  "version": "1.0.0",
+  "description": "Computes commission based on transaction details",
+  "main": "index.js",
+  "bin": {
+    "samplecli": "./bin/samplecli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormwild/samplecli.git"
+  },
+  "author": "Alexander Torrijos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stormwild/samplecli/issues"
+  },
+  "homepage": "https://github.com/stormwild/samplecli#readme"
+}
