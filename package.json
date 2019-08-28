@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/stormwild/samplecli/issues"
   },
-  "homepage": "https://github.com/stormwild/samplecli#readme"
+  "homepage": "https://github.com/stormwild/samplecli#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.2.2"
+  }
 }
