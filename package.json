@@ -19,7 +19,10 @@
     "url": "https://github.com/stormwild/samplecli/issues"
   },
   "homepage": "https://github.com/stormwild/samplecli#readme",
-  "dependencies": {},
+  "dependencies": {
+    "dinero.js": "^1.6.0",
+    "money-math": "^2.5.1"
+  },
   "devDependencies": {
     "eslint": "^6.2.2"
   }
